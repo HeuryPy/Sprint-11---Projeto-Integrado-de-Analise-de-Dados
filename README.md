@@ -1,6 +1,6 @@
 # PROJETO INTEGRADO DE ANÁLISE DE DADOS
 
-Apresentação do Projeto: Este Projeto foi desenvolvido como requisito para aprovação na Sprint 11 do Bootcamp de Análise de Dados da Tripleten.
+Apresentação do Projeto:<br> Este Projeto foi desenvolvido como requisito para aprovação na Sprint 11 do Bootcamp de Análise de Dados da Tripleten.
 
 **🧩O Projeto abordou os seguintes conhecimentos:**
 
